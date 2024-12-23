@@ -4,6 +4,12 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdudtlstm&count_bg=%239DE467&title_bg=%235F5F5F&icon=apachecordova.svg&icon_color=%23CECECE&title=today%27s+visitors&edge_flat=false"/></a>
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudtlstm)](https://github.com/dudtlstm/github-readme-stats)
+
+<a href="https://github.com/devxb/gitanimals" style="width:100vw">
+   <img src="https://render.gitanimals.org/lines/dudtlstm?pet-id=629558405230056966" width="1000" height="120"/>
+</a>
+
 ## 😺 About me
 - 🌱 I’m currently learning **Spring Boot** to enhance my backend knowledge and skills, and **diving deeper into DRF (Django Rest Framework)**.
 - 🤔 I’m currently interested in **backend development** and **multi-robot logistics control systems**.
@@ -22,6 +28,3 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudtlstm)](https://github.com/dudtlstm/github-readme-stats)

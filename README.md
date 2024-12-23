@@ -6,8 +6,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudtlstm)](https://github.com/dudtlstm/github-readme-stats)
 
-<a href="https://github.com/devxb/gitanimals" style="width:100vw">
-   <img src="https://render.gitanimals.org/lines/dudtlstm?pet-id=629558405230056966" width="1000" height="120"/>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/dudtlstm"/>
 </a>
 
 ## 😺 About me

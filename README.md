@@ -8,7 +8,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudtlstm&layout=compact)
 
 ## 😺 About me
-- 🌱 I’m currently learning **Spring Boot** to enhance my backend knowledge and skills, and **diving deeper into DRF (Django Rest Framework)**.
+- 🌱 I’m currently learning **Spring Boot** to enhance my backend skills, and **diving deeper into DRF (Django Rest Framework)**.
 - 🤔 I’m currently interested in **backend development** and **multi-robot logistics control systems**.
 - 💬 I majored in **Computer Science Engineering (CSE)**.
 - ⚡ Fun fact: I was part of the university **cheerleading** team!

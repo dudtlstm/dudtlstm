@@ -5,10 +5,10 @@
 </div>
 
 ## 😺 About me
-- 🌱 I’m currently learning Spring Boot to enhance my backend knowledge and skills, and diving deeper into DRF (Django Rest Framework).
-- 🤔 I’m currently interested in backend development and multi-robot logistics control systems.
-- 💬 I majored in Computer Science Engineering (CSE).
-- ⚡ Fun fact: I was part of the university cheerleading team!
+- 🌱 I’m currently learning **Spring Boot** to enhance my backend knowledge and skills, and **diving deeper into DRF (Django Rest Framework)**.
+- 🤔 I’m currently interested in **backend development** and **multi-robot logistics control systems**.
+- 💬 I majored in **Computer Science Engineering (CSE)**.
+- ⚡ Fun fact: I was part of the university **cheerleading** team!
 
 ## 💻 Tech Stacks
 
@@ -26,3 +26,6 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudtlstm)](https://github.com/dudtlstm/github-readme-stats)

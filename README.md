@@ -1,4 +1,4 @@
-# It's me, dudtlstm.
+# It's me, dudtlstm.
 
 ## 🐱 About me
 - 🌱 I’m currently learning ...

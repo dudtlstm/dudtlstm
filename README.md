@@ -1,7 +1,7 @@
 # It's me, dudtlstm 🐱
 
 <div align="right">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdudtlstm&count_bg=%239DE467&title_bg=%235F5F5F&icon=apachecordova.svg&icon_color=%23CECECE&title=today%27s+visitors&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdudtlstm&count_bg=%239DE467&title_bg=%235F5F5F&icon=apachecordova.svg&icon_color=%23CECECE&title=visitors&edge_flat=false"/></a>
 </div>
 
 <a href="https://github.com/devxb/gitanimals">

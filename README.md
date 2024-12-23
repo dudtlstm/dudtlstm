@@ -7,7 +7,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudtlstm)](https://github.com/dudtlstm/github-readme-stats)
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/dudtlstm"/>
+  <img src="https://render.gitanimals.org/farms/dudtlstm" width="1000" height="120"/>
 </a>
 
 ## 😺 About me

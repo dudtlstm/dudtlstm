@@ -15,6 +15,9 @@
 - 💬 I majored in **Computer Science Engineering (CSE)**.
 - ⚡ Fun fact: I was part of the university **cheerleading** team!
 
+<br/>
+<br/>
+
 ## 💻 Tech Stacks
 ### Language
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,9 +35,10 @@
 ### Deployment & Hosting
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-## 💌 Contact
-- dudtlstm@gmail.com
+<br/>
+<br/>
 
----
+💌 Contact: dudtlstm@gmail.com
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudtlstm&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudtlstm&layout=compact)

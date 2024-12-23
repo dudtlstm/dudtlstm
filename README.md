@@ -1,13 +1,14 @@
-# It's me, dudtlstm.
+# It's me, dudtlstm 🐱
 
-## 🐱 About me
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="right">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdudtlstm&count_bg=%239DE467&title_bg=%235F5F5F&icon=apachecordova.svg&icon_color=%23CECECE&title=today%27s+visitors&edge_flat=false"/></a>
+</div>
+
+## 😺 About me
+- 🌱 I’m currently learning Spring Boot to enhance my backend knowledge and skills, and diving deeper into DRF (Django Rest Framework).
+- 🤔 I’m currently interested in backend development and multi-robot logistics control systems.
+- 💬 I majored in Computer Science Engineering (CSE).
+- ⚡ Fun fact: I was part of the university cheerleading team!
 
 ## 💻 Tech Stacks
 

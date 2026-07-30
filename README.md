@@ -1,16 +1,16 @@
 # Youngshin Park 🐱
 
-<a href="https://github.com/devxb/gitanimals">
+<!-- <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/dudtlstm"/>
-</a>
+</a> -->
 
 ## 😺 About me
-- 🌱 요즘은 **인프라와 데이터베이스**를 깊게 파고 있어요. Linux 서버 운영, 배포 자동화, 쿼리 최적화처럼 "돌아가게 만드는 것"보다 "안정적으로 잘 돌아가게 만드는 것"에 관심이 많습니다.
-- 🗄️ **DB 성능 튜닝**을 좋아합니다. 복합 인덱스 재설계로 조회 쿼리를 **120초 → 5초**로 줄인 경험이 가장 재미있었어요.
-- ☁️ **서버 운영과 클라우드 마이그레이션** 경험이 있습니다. (nginx + gunicorn + systemd 기반 배포, AWS RDS → NCP Cloud DB 이관)
-- 🤖 **LLM / RAG 파이프라인**으로 실제 문제를 푸는 일에 관심이 있습니다. 폐쇄망 환경에서의 로컬 LLM 활용과 검색 정확도 개선을 주로 다뤘어요.
-- 💬 **컴퓨터공학(CSE)** 전공이고, 요즘은 **Kubernetes / MLOps** 등 AI 워크로드를 운영하는 쪽을 공부하고 있습니다.
-- ⚡ Fun fact: 대학교 **치어리딩** 팀이었습니다!
+- 🌱 I’m currently going deep on **infrastructure and databases** — Linux server operations, deployment, and query optimization. I care less about making things *run* and more about making them run *reliably*.
+- 🗄️ I really enjoy **DB performance tuning**. My favorite win so far: redesigning a composite index to bring a query down from **120s to 5s**.
+- ☁️ I have hands-on experience in **server operations and cloud migration** — nginx + gunicorn + systemd deployments, and an AWS RDS → NCP Cloud DB migration.
+- 🤖 I’m interested in solving real problems with **LLM / RAG pipelines**, especially running local LLMs in air-gapped environments and improving retrieval accuracy.
+- 💬 I majored in **Computer Science Engineering (CSE)**, and I’m currently studying **Kubernetes / MLOps** to learn how AI workloads are operated in production.
+- ⚡ Fun fact: I was part of the university **cheerleading** team!
 
 <br/>
 

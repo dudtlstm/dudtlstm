@@ -6,7 +6,6 @@
 - 🌱 I’m currently focused on **infrastructure and databases** — Linux server ops, deployment, and query optimization.
 - 🗄️ I enjoy **DB performance tuning**. Favorite win so far: a composite index redesign that took a query from **120s to 5s**.
 - ☁️ Experienced with **server operations and cloud migration** (nginx, gunicorn, systemd, AWS RDS → NCP).
-- 🤖 Interested in building **LLM / RAG pipelines**, especially local LLMs in air-gapped environments.
 - 💬 I majored in **Computer Science Engineering (CSE)**, and I’m now learning **Kubernetes / MLOps**.
 - ⚡ Fun fact: I was part of the university **cheerleading** team!
 

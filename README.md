@@ -3,11 +3,11 @@
 </a> -->
 
 ## 😺 About me
-- 🌱 I’m currently going deep on **infrastructure and databases** — Linux server operations, deployment, and query optimization. I care less about making things *run* and more about making them run *reliably*.
-- 🗄️ I really enjoy **DB performance tuning**. My favorite win so far: redesigning a composite index to bring a query down from **120s to 5s**.
-- ☁️ I have hands-on experience in **server operations and cloud migration** — nginx + gunicorn + systemd deployments, and an AWS RDS → NCP Cloud DB migration.
-- 🤖 I’m interested in solving real problems with **LLM / RAG pipelines**, especially running local LLMs in air-gapped environments and improving retrieval accuracy.
-- 💬 I majored in **Computer Science Engineering (CSE)**, and I’m currently studying **Kubernetes / MLOps** to learn how AI workloads are operated in production.
+- 🌱 I’m currently focused on **infrastructure and databases** — Linux server ops, deployment, and query optimization.
+- 🗄️ I enjoy **DB performance tuning**. Favorite win so far: a composite index redesign that took a query from **120s to 5s**.
+- ☁️ Experienced with **server operations and cloud migration** (nginx, gunicorn, systemd, AWS RDS → NCP).
+- 🤖 Interested in building **LLM / RAG pipelines**, especially local LLMs in air-gapped environments.
+- 💬 I majored in **Computer Science Engineering (CSE)**, and I’m now learning **Kubernetes / MLOps**.
 - ⚡ Fun fact: I was part of the university **cheerleading** team!
 
 <br/>
